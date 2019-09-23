@@ -1,2 +1,0 @@
-# petali
-Created with CodeSandbox
